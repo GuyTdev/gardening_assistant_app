@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Botanical Buddy",
+  "description": "An AI-powered gardening assistant that identifies plants from photos and provides detailed care instructions and chat support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
